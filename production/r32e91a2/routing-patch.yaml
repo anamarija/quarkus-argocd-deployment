@@ -1,0 +1,5 @@
+- op: add
+  path: /spec/traffic/-
+  value:
+    tag: r32e91a2
+    revisionName: quarkus-argocd-r32e91a2

@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+   name: env-ops-quarkus-argocd
+data:
+  application.yaml: |-
+    message: hi

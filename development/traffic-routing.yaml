@@ -1,0 +1,9 @@
+- op: add
+  path: /spec/traffic
+  value:
+    - revisionName: quarkus-argocd-rf1621d3
+      percent: 20
+    - revisionName: quarkus-argocd-r32e91a2
+      percent: 80
+
+      
